@@ -2,8 +2,6 @@
 
 2. Speech Rrecognition
 
-3. Wikipedia
+3. Webbrowser
 
-4. Webbrowser
-
-5. Pyautogui
+4. Pyautogui
